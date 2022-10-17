@@ -1,0 +1,102 @@
+body {
+    font-family: europa, sans-serif;
+    margin: 0;
+    background: rgb(61, 123, 144);
+}
+
+
+.header1 {
+    font-size: 50px;
+    height: auto;
+    width: auto;
+    font-weight: 100px;
+    color: rgb(0, 0, 0);
+}
+
+.div1 {
+    height: 500px;
+    width: auto;
+}
+
+.img1 {
+  width: auto;
+  max-width: 50%;
+  height: auto;
+  border-radius: 15px;
+  border: 4px solid black
+}
+
+.button {
+    width: 150px;
+    height: 45px;
+    border: none;
+    color: white;
+    background-color: #000000;
+    box-shadow: inset 0 0 0 0 rgb(255, 255, 255);
+    transition: ease-out 0.3s;
+    outline: none;
+    font-size: medium;
+    border-radius: 4px;
+
+}
+
+.button:hover {
+    box-shadow: inset 300px 0 0 0 rgb(255, 255, 255);
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+
+
+
+
+
+.p1 {
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+.icon1 {
+    height: 50px;
+    width: auto;
+}
+
+
+
+.writing1 {
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+  width: auto;
+  max-width: 1000px;
+}
+
+.writingbtn1:hover {
+    box-shadow: inset 300px 0 0 0 rgb(255, 255, 255);
+    cursor: pointer;
+    color: rgb(0, 0, 0);
+}
+
+.writingbtn1 {
+    width: 150px;
+    height: 45px;
+    border: none;
+    color: white;
+    background-color: #000000;
+    box-shadow: inset 0 0 0 0 rgb(255, 255, 255);
+    transition: ease-out 0.3s;
+    outline: none;
+    font-size: medium;
+    border-radius: 4px;
+
+}
+
+.writingimg1 {
+    width: auto;
+  max-width: 35%;
+  height: auto;
+  border-radius: 15px;
+  border: 4px solid black
+
+}
+
+
