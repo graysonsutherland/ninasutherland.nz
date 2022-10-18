@@ -40,15 +40,6 @@ body {
 
 }
 
-.button:hover {
-    box-shadow: inset 300px 0 0 0 rgb(255, 255, 255);
-    cursor: pointer;
-    color: rgb(0, 0, 0);
-}
-
-
-
-
 
 .p1 {
     font-size: 25px;
